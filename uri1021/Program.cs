@@ -7,7 +7,6 @@ namespace uri1021
     {
         static void Main(string[] args)
         {
-            //
             double N;
             int quociente, resto, nota, moeda;
 
