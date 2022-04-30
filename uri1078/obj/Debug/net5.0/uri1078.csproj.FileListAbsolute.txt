@@ -1,0 +1,15 @@
+C:\Users\Rafael\source\repos\uri1078\bin\Debug\net5.0\uri1078.exe
+C:\Users\Rafael\source\repos\uri1078\bin\Debug\net5.0\uri1078.deps.json
+C:\Users\Rafael\source\repos\uri1078\bin\Debug\net5.0\uri1078.runtimeconfig.json
+C:\Users\Rafael\source\repos\uri1078\bin\Debug\net5.0\uri1078.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\uri1078\bin\Debug\net5.0\uri1078.dll
+C:\Users\Rafael\source\repos\uri1078\bin\Debug\net5.0\ref\uri1078.dll
+C:\Users\Rafael\source\repos\uri1078\bin\Debug\net5.0\uri1078.pdb
+C:\Users\Rafael\source\repos\uri1078\obj\Debug\net5.0\uri1078.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\uri1078\obj\Debug\net5.0\uri1078.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\uri1078\obj\Debug\net5.0\uri1078.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\uri1078\obj\Debug\net5.0\uri1078.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\uri1078\obj\Debug\net5.0\uri1078.dll
+C:\Users\Rafael\source\repos\uri1078\obj\Debug\net5.0\ref\uri1078.dll
+C:\Users\Rafael\source\repos\uri1078\obj\Debug\net5.0\uri1078.pdb
+C:\Users\Rafael\source\repos\uri1078\obj\Debug\net5.0\uri1078.genruntimeconfig.cache

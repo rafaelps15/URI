@@ -1,0 +1,15 @@
+C:\Users\Rafael\source\repos\uri2483\bin\Debug\net5.0\uri2483.exe
+C:\Users\Rafael\source\repos\uri2483\bin\Debug\net5.0\uri2483.deps.json
+C:\Users\Rafael\source\repos\uri2483\bin\Debug\net5.0\uri2483.runtimeconfig.json
+C:\Users\Rafael\source\repos\uri2483\bin\Debug\net5.0\uri2483.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\uri2483\bin\Debug\net5.0\uri2483.dll
+C:\Users\Rafael\source\repos\uri2483\bin\Debug\net5.0\ref\uri2483.dll
+C:\Users\Rafael\source\repos\uri2483\bin\Debug\net5.0\uri2483.pdb
+C:\Users\Rafael\source\repos\uri2483\obj\Debug\net5.0\uri2483.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\uri2483\obj\Debug\net5.0\uri2483.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\uri2483\obj\Debug\net5.0\uri2483.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\uri2483\obj\Debug\net5.0\uri2483.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\uri2483\obj\Debug\net5.0\uri2483.dll
+C:\Users\Rafael\source\repos\uri2483\obj\Debug\net5.0\ref\uri2483.dll
+C:\Users\Rafael\source\repos\uri2483\obj\Debug\net5.0\uri2483.pdb
+C:\Users\Rafael\source\repos\uri2483\obj\Debug\net5.0\uri2483.genruntimeconfig.cache

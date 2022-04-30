@@ -1,0 +1,15 @@
+C:\Users\Rafael\source\repos\uri1156\bin\Debug\net5.0\uri1156.exe
+C:\Users\Rafael\source\repos\uri1156\bin\Debug\net5.0\uri1156.deps.json
+C:\Users\Rafael\source\repos\uri1156\bin\Debug\net5.0\uri1156.runtimeconfig.json
+C:\Users\Rafael\source\repos\uri1156\bin\Debug\net5.0\uri1156.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\uri1156\bin\Debug\net5.0\uri1156.dll
+C:\Users\Rafael\source\repos\uri1156\bin\Debug\net5.0\ref\uri1156.dll
+C:\Users\Rafael\source\repos\uri1156\bin\Debug\net5.0\uri1156.pdb
+C:\Users\Rafael\source\repos\uri1156\obj\Debug\net5.0\uri1156.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\uri1156\obj\Debug\net5.0\uri1156.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\uri1156\obj\Debug\net5.0\uri1156.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\uri1156\obj\Debug\net5.0\uri1156.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\uri1156\obj\Debug\net5.0\uri1156.dll
+C:\Users\Rafael\source\repos\uri1156\obj\Debug\net5.0\ref\uri1156.dll
+C:\Users\Rafael\source\repos\uri1156\obj\Debug\net5.0\uri1156.pdb
+C:\Users\Rafael\source\repos\uri1156\obj\Debug\net5.0\uri1156.genruntimeconfig.cache

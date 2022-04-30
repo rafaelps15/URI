@@ -1,0 +1,16 @@
+C:\Users\Rafael\source\repos\uri1929\bin\Debug\net5.0\uri1929.exe
+C:\Users\Rafael\source\repos\uri1929\bin\Debug\net5.0\uri1929.deps.json
+C:\Users\Rafael\source\repos\uri1929\bin\Debug\net5.0\uri1929.runtimeconfig.json
+C:\Users\Rafael\source\repos\uri1929\bin\Debug\net5.0\uri1929.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\uri1929\bin\Debug\net5.0\uri1929.dll
+C:\Users\Rafael\source\repos\uri1929\bin\Debug\net5.0\ref\uri1929.dll
+C:\Users\Rafael\source\repos\uri1929\bin\Debug\net5.0\uri1929.pdb
+C:\Users\Rafael\source\repos\uri1929\obj\Debug\net5.0\uri1929.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\uri1929\obj\Debug\net5.0\uri1929.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\uri1929\obj\Debug\net5.0\uri1929.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\uri1929\obj\Debug\net5.0\uri1929.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\uri1929\obj\Debug\net5.0\uri1929.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\uri1929\obj\Debug\net5.0\uri1929.dll
+C:\Users\Rafael\source\repos\uri1929\obj\Debug\net5.0\ref\uri1929.dll
+C:\Users\Rafael\source\repos\uri1929\obj\Debug\net5.0\uri1929.pdb
+C:\Users\Rafael\source\repos\uri1929\obj\Debug\net5.0\uri1929.genruntimeconfig.cache

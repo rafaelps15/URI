@@ -1,0 +1,15 @@
+C:\Users\Rafael\source\repos\uri2581\bin\Debug\net5.0\uri2581.exe
+C:\Users\Rafael\source\repos\uri2581\bin\Debug\net5.0\uri2581.deps.json
+C:\Users\Rafael\source\repos\uri2581\bin\Debug\net5.0\uri2581.runtimeconfig.json
+C:\Users\Rafael\source\repos\uri2581\bin\Debug\net5.0\uri2581.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\uri2581\bin\Debug\net5.0\uri2581.dll
+C:\Users\Rafael\source\repos\uri2581\bin\Debug\net5.0\ref\uri2581.dll
+C:\Users\Rafael\source\repos\uri2581\bin\Debug\net5.0\uri2581.pdb
+C:\Users\Rafael\source\repos\uri2581\obj\Debug\net5.0\uri2581.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\uri2581\obj\Debug\net5.0\uri2581.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\uri2581\obj\Debug\net5.0\uri2581.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\uri2581\obj\Debug\net5.0\uri2581.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\uri2581\obj\Debug\net5.0\uri2581.dll
+C:\Users\Rafael\source\repos\uri2581\obj\Debug\net5.0\ref\uri2581.dll
+C:\Users\Rafael\source\repos\uri2581\obj\Debug\net5.0\uri2581.pdb
+C:\Users\Rafael\source\repos\uri2581\obj\Debug\net5.0\uri2581.genruntimeconfig.cache

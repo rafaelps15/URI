@@ -1,0 +1,15 @@
+C:\Users\Rafael\source\repos\uri2344\bin\Debug\net5.0\uri2344.exe
+C:\Users\Rafael\source\repos\uri2344\bin\Debug\net5.0\uri2344.deps.json
+C:\Users\Rafael\source\repos\uri2344\bin\Debug\net5.0\uri2344.runtimeconfig.json
+C:\Users\Rafael\source\repos\uri2344\bin\Debug\net5.0\uri2344.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\uri2344\bin\Debug\net5.0\uri2344.dll
+C:\Users\Rafael\source\repos\uri2344\bin\Debug\net5.0\ref\uri2344.dll
+C:\Users\Rafael\source\repos\uri2344\bin\Debug\net5.0\uri2344.pdb
+C:\Users\Rafael\source\repos\uri2344\obj\Debug\net5.0\uri2344.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\uri2344\obj\Debug\net5.0\uri2344.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\uri2344\obj\Debug\net5.0\uri2344.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\uri2344\obj\Debug\net5.0\uri2344.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\uri2344\obj\Debug\net5.0\uri2344.dll
+C:\Users\Rafael\source\repos\uri2344\obj\Debug\net5.0\ref\uri2344.dll
+C:\Users\Rafael\source\repos\uri2344\obj\Debug\net5.0\uri2344.pdb
+C:\Users\Rafael\source\repos\uri2344\obj\Debug\net5.0\uri2344.genruntimeconfig.cache
