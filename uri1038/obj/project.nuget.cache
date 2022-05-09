@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "S1x1U4FPXeuvGhH7VL4/6PFnOZNLJoaU522bq8oQlIXYqbq8OuoOyfoLzhVsa2VjyISUBNkWzbGIId6jDlS14Q==",
+  "dgSpecHash": "fgqfm42uXa2eKty9fjqSSVmFJFXMQPHfo3jinfu2gL58ntWexKJBRsdQDfSd9k1OIgp+0H3u2nXGqmuyuRJwHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael\\source\\repos\\uri1038\\uri1038.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Visual-Estudio\\Questoes-URI\\uri1038\\uri1038.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
