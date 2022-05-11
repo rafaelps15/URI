@@ -1,10 +1,23 @@
-﻿using System;
+using System;
 using System.Globalization;
 
 namespace uri1013
 {
     class Program
     {
+        /*Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”. Utilize a fórmula:
+          
+          MaiorAB = (a+b+abs(a-b)/2:
+
+          Obs.: a fórmula apenas calcula o maior entre os dois primeiros (a e b). Um segundo passo, portanto é necessário para chegar no resultado
+          esperado.
+
+          Entrada
+          O arquivo de entrada contém três valores inteiros.
+
+          Saída
+          Imprima o maior dos três valores seguido por um espaço e a mensagem "eh o maior".
+         */
         static void Main(string[] args)
         {
             double x, y, z;
@@ -27,33 +40,7 @@ namespace uri1013
             {
                 Console.WriteLine(z + " eh o maior");
             }
-
         }
     }
 }
 
-// Utilizando a fórmula do exercício
-//using System;
-
-//namespace uri1013
-//{
-//  class Program
-// {
-//   static void Main(string[] args)
-// {
-
-//   int x, y, z, maiorXY, maior;
-
-// string[] valores = Console.ReadLine().Split(' ');
-// x = int.Parse(valores[0]);
-// y = int.Parse(valores[1]);
-// z = int.Parse(valores[2]);
-
-//maiorXY = (x + y + Math.Abs(x - y)) / 2;
-
-// maior = (maiorXY + z + Math.Abs(maiorXY - z)) / 2;
-
-//Console.WriteLine(maior + " eh o maior");
-//}
-// }
-//}
