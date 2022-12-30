@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace uri1003
 {
@@ -13,7 +13,6 @@ namespace uri1003
       pelo valor correspondente à soma de A e B. Como todos os problemas, não esqueça de imprimir o fim de linha após o 
       resultado, caso contrário, você receberá "Presentation Error".
     */ 
-    
     class Program
     {
         static void Main(string[] args)
