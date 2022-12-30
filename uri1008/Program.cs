@@ -1,5 +1,6 @@
 using System;
 using System.Globalization;
+
 namespace uri1008
 {
         /*Escreva um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora
