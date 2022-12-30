@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace uri1001
 {
@@ -9,7 +9,6 @@ namespace uri1001
     Não apresente mensagem alguma além daquilo que está sendo especificado e não esqueça 
     de imprimir o fim de linha após o resultado,caso contrário, vocêreceberá "Presentation Error".
     */
-        
     class Program
     {
         static void Main(string[] args)
