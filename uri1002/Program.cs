@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Globalization;
 
 namespace uri1002
@@ -15,7 +15,6 @@ namespace uri1002
       Utilize variáveis de dupla precisão (double). Como todos os problemas, não esqueça de imprimir o fim de linha após o 
       resultado, caso contrário, você receberá "Presentation Error".
     */  
-    
     class Program
     {
         static void Main(string[] args)
