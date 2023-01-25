@@ -1,0 +1,16 @@
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\bin\Debug\net5.0\uri1131.exe
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\bin\Debug\net5.0\uri1131.deps.json
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\bin\Debug\net5.0\uri1131.runtimeconfig.json
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\bin\Debug\net5.0\uri1131.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\bin\Debug\net5.0\uri1131.dll
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\bin\Debug\net5.0\uri1131.pdb
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\obj\Debug\net5.0\uri1131.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\obj\Debug\net5.0\uri1131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\obj\Debug\net5.0\uri1131.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\obj\Debug\net5.0\uri1131.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\obj\Debug\net5.0\uri1131.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\obj\Debug\net5.0\uri1131.dll
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\obj\Debug\net5.0\refint\uri1131.dll
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\obj\Debug\net5.0\uri1131.pdb
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\obj\Debug\net5.0\uri1131.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Iniciante\uri1131\uri1131\obj\Debug\net5.0\ref\uri1131.dll
